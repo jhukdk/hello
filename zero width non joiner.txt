@@ -1,0 +1,15 @@
+Zero-width non-joiner
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+
+ISO keyboard symbol for ZWNJ
+The zero-width non-joiner (ZWNJ) (‌) is a non-printing character used in the computerization of writing systems that make use of ligatures. When placed between two characters that would otherwise be connected into a ligature, a ZWNJ causes them to be printed in their final and initial forms, respectively. This is also an effect of a space character, but a ZWNJ is used when it is desirable to keep the words closer together or to connect a word with its morpheme.
+
+The ZWNJ is encoded in Unicode as U+200C ZERO WIDTH NON-JOINER (HTML &#8204; · &zwnj;).
+
+Encoding
+The zero-width space character is encoded in Unicode as U+200B ZERO WIDTH SPACE (HTML &#8203;  ·  &#x200B;  ·  &ZeroWidthSpace;  ·  &NegativeVeryThinSpace;).[6]
+
+The TeX representation is \hskip0pt; the LaTeX representation is \hspace{0pt};[7] and the groff representation is \:.[8]
+
+Its semantics and HTML implementation are similar to the soft hyphen, except that soft hyphens display a hyphen character at the point where the line is broken.
